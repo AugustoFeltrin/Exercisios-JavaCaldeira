@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula-1/Aula-1.iml" filepath="$PROJECT_DIR$/Aula-1/Aula-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-2/Aula-2.iml" filepath="$PROJECT_DIR$/Aula-2/Aula-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-3/Aula-3.iml" filepath="$PROJECT_DIR$/Aula-3/Aula-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-4/Aula-4.iml" filepath="$PROJECT_DIR$/Aula-4/Aula-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-5/Aula-5.iml" filepath="$PROJECT_DIR$/Aula-5/Aula-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-6/Aula-6.iml" filepath="$PROJECT_DIR$/Aula-6/Aula-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-7/Aula-7.iml" filepath="$PROJECT_DIR$/Aula-7/Aula-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercisios-JavaCaldeira.iml" filepath="$PROJECT_DIR$/.idea/Exercisios-JavaCaldeira.iml" />
+    </modules>
+  </component>
+</project>
